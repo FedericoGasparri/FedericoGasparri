@@ -1,8 +1,8 @@
 ## Hi there
 
-My name is Federico Gasparri. I am an Italian student currently graduating with an MSc in Financial Risk and Data Analysis at Sapienza University of Rome.
+My name is Federico Gasparri. I am currently pursuing a Specialized Master in Quantitative Finance (MAFINRISK) at Bocconi University, after graduating cum laude with an MSc in Finance from Sapienza University of Rome.
 
-I have a strong interest in Machine Learning, with a particular focus on applications in trading and risk management. I am using this space to share both academic and personal projects that reflect my journey and growth in these fields.
+My interests lie at the intersection of quantitative methods and markets, with a focus on trading and asset management. I use this space to share academic and personal projects in these fields.
 
 Feel free to explore the repositories below to learn more about my work.
 
